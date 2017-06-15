@@ -8,5 +8,6 @@
     <ruleset inid="2" datatype="double">
         <rule type="minimum" outid="201" publishintervalms="6000"/>
         <rule type="transmit" outid="200" publishintervalms="200"/>
+        <rule type="average" outid="201" publishintervalms="600000"/>
     </ruleset>
 </verarbeiterconfig>
