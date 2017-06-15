@@ -6,8 +6,9 @@
     <topic igid="100" string="/maschine1/pressure/current"/>
     <topic igid="102" string="/maschine1/pressure/maxlast6s"/>
 
-    <topic igid="201" string="/maschine1/temp/minlast6s"/>
     <topic igid="200" string="/maschine1/temp/current"/>
-
+    <topic igid="201" string="/maschine1/temp/minlast6s"/>
+    <topic igid="202" string="/maschine1/temp/avglast10min"/>
+    
     <topic igid="401" string="/maschine1/pressure/minlastsec"/>
 </mqttconfig>
